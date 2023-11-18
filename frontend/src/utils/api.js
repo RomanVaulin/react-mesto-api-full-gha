@@ -107,7 +107,7 @@ class Api {
 }
 
 const api = new Api({
-    baseUrl: 'http://localhost:3000',
+    baseUrl: 'https://api.g1pno.students.nomoredomainsmonster.ru',
 });
 
 export default api;

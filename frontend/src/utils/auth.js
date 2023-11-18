@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3000'
+const baseUrl = 'https://api.g1pno.students.nomoredomainsmonster.ru'
 
 function getResponseData(res) {
     if (res.ok) {
