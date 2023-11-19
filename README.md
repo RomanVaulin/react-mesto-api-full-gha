@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес <158.160.51.4>
+IP <ipv4> 158.160.51.4
 
 Frontend https://g1pno.students.nomoredomainsmonster.ru
 
